@@ -1,1 +1,1 @@
-# LunarcatOwO.github.io
+# [ISeal Discord Bot](iseal.melodydevelopment.me)
