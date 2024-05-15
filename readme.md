@@ -1,1 +1,1 @@
-# [ISeal Discord Bot](iseal.melodydevelopment.me)
+# [ISeal Discord Bot](https://iseal.melodydevelopment.me)
