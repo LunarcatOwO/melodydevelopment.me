@@ -1,4 +1,3 @@
-# [ISeal Discord Bot (END OF LIFE)](https://iseal.melodydevelopment.me)
-
+There is nothing here...
 
 # [Donate to me](https://ko-fi.com/lunarcatOwO)
